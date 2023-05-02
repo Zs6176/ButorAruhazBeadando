@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MobiBeadando</string>
+    <string name="Login">Login</string>
+    <string name="regist">Regisztrácio</string>
+    <string name="email">Email cím</string>
+    <string name="passw">Jelszó</string>
+
+
+    <string-array name="shopping_item_names">
+        <item>Kanapé</item>
+        <item>Előszoba Butor</item>
+        <item>Kiss szekrény</item>
+        <item>Nagy Szekrény</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Kanapé barna</item>
+        <item>Előszoba Butor Fehér</item>
+        <item>Kiss szekrény</item>
+        <item>Nagy Szekrény</item>
+    </string-array>
+
+    <array name="shopping_item_price">
+        <item>13000</item>
+        <item>500000</item>
+        <item>90000</item>
+        <item>272718</item>
+    </array>
+</resources>
